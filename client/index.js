@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 const Root = () => {
   return (
     <div>
-      Auth Starter
+      Auth Starter Client
     </div>
   );
 };
